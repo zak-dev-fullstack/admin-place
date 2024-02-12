@@ -7,7 +7,9 @@ function App() {
   return (
     <>
    <main>
-    <h1>Admin Place v0</h1>
+    <h1>Admin Place</h1>
+    <h2>Web Ready for Idea or Project</h2>
+    
    </main>
     </>
   )
